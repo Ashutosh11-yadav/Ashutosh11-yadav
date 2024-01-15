@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-ashutoshyadav-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mailto:ay599623@gmail.com)](mailto:ay599623@gmail.com)
 
 
-Dedicated Android Developer, with a specific focus on leveraging the power of React Native to build  dynamic and user-friendly mobile application. My journey involves exploring the capabilities of React Native to create innovative solutions that seamlessly blend the efficiency of native development with the flexibility of cross-platform frameworks.
+Dedicated **Android Developer**, with a specific focus on leveraging the power of **React Native** to build  dynamic and user-friendly mobile application. My journey involves exploring the capabilities of React Native to create innovative solutions that seamlessly blend the efficiency of native development with the flexibility of cross-platform frameworks.
 Always open for ideas and turning it into tangible solution that tackle real world challenges. 
 If you have any idea, let's collaborate and contribute.
 
