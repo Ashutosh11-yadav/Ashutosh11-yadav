@@ -27,7 +27,6 @@ If you have any idea, let's collaborate and contribute.
 72%
 <br/>
 [**Sainik School Ambikapur, Chhattishgarh**](https://sainikschoolambikapur.org.in//)
-
 <br/>
 
 
