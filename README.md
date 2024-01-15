@@ -14,7 +14,7 @@ If you have any idea, let's collaborate and contribute.
 [<img align="left" height="10%" width="10%" alt="logo" src="https://github.com/Ashutosh11-yadav/Ashutosh11-yadav/blob/main/assets/logo.jpeg"/>](https://gecbsp.ac.in/)
 **B.Tech** \
 **Information Technology** \
- • 2021-25 \
+ **2021-25**\
 [**Government Engineering College, Bilaspur, Chhattishgarh**](https://gecbsp.ac.in//)
 <br/>
 <br/>
@@ -23,9 +23,10 @@ If you have any idea, let's collaborate and contribute.
 [<img align="left" height="8%" width="10%" alt="logo" src="https://github.com/Ashutosh11-yadav/Ashutosh11-yadav/blob/main/assets/sainik-school-ambikapur-logo.png"/>](https://gecbsp.ac.in/)
 **10+2** \
 **PCM** \
-[**Sainik School Ambikapur, Chhattishgarh**](https://sainikschoolambikapur.org.in/) • 2019-20 
+**2019-20**\ 
+[**Sainik School Ambikapur, Chhattishgarh**](https://sainikschoolambikapur.org.in/)
 <br/>
-• 72% \
+72% \
 <br/>
 
 
