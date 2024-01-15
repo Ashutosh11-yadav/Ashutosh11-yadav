@@ -16,6 +16,8 @@ If you have any idea, let's collaborate and contribute.
 **Information Technology** \
 [**Government Engineering College, Bilaspur, Chhattishgarh**](https://gecbsp.ac.in//) • 2021-25 \
 <br/>
+<br/>
+<br/>
 
 [<img align="left" height="120px" width="120px" alt="logo" src="https://github.com/Ashutosh11-yadav/Ashutosh11-yadav/blob/main/assets/sainik-school-ambikapur-logo.png"/>](https://gecbsp.ac.in/)
 **10+2** \
