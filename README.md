@@ -13,7 +13,7 @@ If you have any idea, let's collaborate and contribute.
 
 [<img align="left" height="120px" width="120px" alt="Greyfeathers" src="https://github.com/Ashutosh11-yadav/Ashutosh11-yadav/blob/main/assets/logo.jpeg"/>](https://gecbsp.ac.in/)
 **Information Technology** \
-[**Government Engineering College, Bilaspur, Chhattishgarh**](https://gecbsp.ac.in//) • 2021-25 \
+[**Government Engineering College,   Bilaspur, Chhattishgarh**](https://gecbsp.ac.in//) • 2021-25 \
 <br/>
 
 
