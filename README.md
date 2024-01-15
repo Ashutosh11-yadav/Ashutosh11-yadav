@@ -22,7 +22,7 @@ If you have any idea, let's collaborate and contribute.
 [<img align="left" height="120px" width="120px" alt="logo" src="https://github.com/Ashutosh11-yadav/Ashutosh11-yadav/blob/main/assets/sainik-school-ambikapur-logo.png"/>](https://gecbsp.ac.in/)
 **10+2** \
 **PCM** \
-[**Sainik School Ambikapur, Chhattishgarh**](https://sainikschoolambikapur.org.in/) • 2019-20 \
+[**Sainik School Ambikapur, Chhattishgarh**](https://sainikschoolambikapur.org.in/) • 2019-20 \\
 • 72% \
 <br/>
 
