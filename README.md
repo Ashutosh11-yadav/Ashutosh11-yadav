@@ -11,7 +11,7 @@ If you have any idea, let's collaborate and contribute.
 
 ### Education
 
-[<img align="left" height="70px" width="100px" alt="Greyfeathers" src="https://github.com/Ashutosh11-yadav/Ashutosh11-yadav/blob/main/assets/logo.jpeg"/>](https://gecbsp.ac.in/)
+[<img align="left" height="120px" width="120px" alt="Greyfeathers" src="https://github.com/Ashutosh11-yadav/Ashutosh11-yadav/blob/main/assets/logo.jpeg"/>](https://gecbsp.ac.in/)
 
 
 
