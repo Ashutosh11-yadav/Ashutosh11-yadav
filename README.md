@@ -24,8 +24,9 @@ If you have any idea, let's collaborate and contribute.
 **10+2** \
 **PCM** \
 **2019-20** \ 
-[**Sainik School Ambikapur, Chhattishgarh**](https://sainikschoolambikapur.org.in/)
 <br/>
+[**Sainik School Ambikapur, Chhattishgarh**](https://sainikschoolambikapur.org.in//)
+
 72%
 <br/>
 
