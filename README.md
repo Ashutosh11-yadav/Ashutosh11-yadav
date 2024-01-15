@@ -9,6 +9,12 @@ Dedicated **Android Developer**, with a specific focus on leveraging the power o
 Always open for ideas and turning it into tangible solution that tackle real world challenges. 
 If you have any idea, let's collaborate and contribute.
 
+### Education
+
+[<img align="left" height="70px" width="100px" alt="Greyfeathers" src="https://github.com/Ashutosh11-yadav/Ashutosh11-yadav/blob/main/assets/logo.jpeg"/>](https://gecbsp.ac.in/)
+
+
+
 
 
 
