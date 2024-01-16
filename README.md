@@ -5,13 +5,30 @@
 [![Gmail Badge](https://img.shields.io/badge/-ay599623-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mailto:ay599623@gmail.com)](mailto:ay599623@gmail.com)
 
 
-Dedicated **Android Developer**, with a specific focus on leveraging the power of **React Native** to build  dynamic and user-friendly mobile application. My journey involves exploring the capabilities of React Native to create innovative solutions that seamlessly blend the efficiency of native development with the flexibility of cross-platform frameworks.
+Dedicated **Android Developer**, with a specific focus on leveraging the power of `React Native` and `Javascript` to build  dynamic and user-friendly mobile application. My journey involves exploring the capabilities of React Native to create innovative solutions that seamlessly blend the efficiency of native development with the flexibility of cross-platform frameworks .
 Always open for ideas and turning it into tangible solution that tackle real world challenges. 
 If you have any idea, let's collaborate and contribute.
 
+## Project
+[<img align="left" height="10%" width="10%" alt="logo" src="https://github.com/Ashutosh11-yadav/Ashutosh11-yadav/blob/main/assets/logo.jpeg"/>](https://github.com/Ashutosh11-yadav/minicncplotter)
+**Arduino Based Mini CNC Plotter** \
+Project Exhibition Competition \
+**Government Engineering College, Bilaspur, Chhattishgarh**  
+Languages & Technologies: `C++`, `Processing`, `Internet Of Things`<span style="line-height: 15;">&nbsp;</span>\
+<br/>
 
 
-### Education
+## Certificate
+[<img align="left" height="10%" width="10%" alt="logo" src="https://github.com/Ashutosh11-yadav/Ashutosh11-yadav/blob/main/assets/logo.jpeg"/>](https://github.com/Ashutosh11-yadav/minicncplotter)
+**React Native Development** \
+[**CourSi Academy**](https://www.coursi.in/)
+Languages & Technologies: `C++`, `Processing`, `Internet Of Things`<span style="line-height: 15;">&nbsp;</span>\
+<br/>
+
+
+
+
+## Education
 
 [<img align="left" height="10%" width="10%" alt="logo" src="https://github.com/Ashutosh11-yadav/Ashutosh11-yadav/blob/main/assets/logo.jpeg"/>](https://gecbsp.ac.in/)
 **B.Tech** \
