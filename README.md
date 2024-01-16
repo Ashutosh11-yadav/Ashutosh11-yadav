@@ -16,6 +16,8 @@ Project Exhibition Competition \
 **Government Engineering College, Bilaspur, Chhattishgarh**  
 Languages & Technologies: `C++`, `Processing`, `Internet Of Things`<span style="line-height: 15;">&nbsp;</span>\
 <br/>
+<br/>
+<br/>
 
 
 ## Certification
@@ -23,10 +25,10 @@ Languages & Technologies: `C++`, `Processing`, `Internet Of Things`<span style="
 **React Native Development** \
 [**CourSi Academy, Bengaluru, Karnataka**](https://www.coursi.in/) \
 Languages & Technologies: `JavaScript`, `ReactNative`<span style="line-height: 15;">&nbsp;</span>\
-[**Certificate**](https://www.coursi.in/) \
+[**Certificate**](https://github.com/Ashutosh11-yadav/Ashutosh11-yadav/blob/main/assets/CourSi%20Certificate.pdf) \
 <br/>
-
-
+<br/>
+<br/>
 
 
 ## Education
