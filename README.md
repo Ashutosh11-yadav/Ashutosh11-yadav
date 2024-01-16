@@ -20,10 +20,10 @@ Languages & Technologies: `C++`, `Processing`, `Internet Of Things`<span style="
 
 
 ## Certification
-[<img align="left" height="6%" width="10%" alt="logo" src="https://github.com/Ashutosh11-yadav/Ashutosh11-yadav/blob/main/assets/Coursi.png"/>](https://www.coursi.in/)
+[<img align="left" height="5%" width="10%" alt="logo" src="https://github.com/Ashutosh11-yadav/Ashutosh11-yadav/blob/main/assets/Coursi.png"/>](https://www.coursi.in/)
 **React Native Development** \
-[**CourSi Academy, Bengaluru, Karnataka**](https://www.coursi.in/) \
 Languages & Technologies: `JavaScript`, `ReactNative`<span style="line-height: 15;">&nbsp;</span>\
+[**CourSi Academy, Bengaluru, Karnataka**](https://www.coursi.in/) \
 [**Certificate**](https://github.com/Ashutosh11-yadav/Ashutosh11-yadav/blob/main/assets/CourSi%20Certificate.pdf) \
 <br/>
 <br/>
