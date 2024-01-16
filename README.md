@@ -18,11 +18,11 @@ Languages & Technologies: `C++`, `Processing`, `Internet Of Things`<span style="
 <br/>
 
 
-## Certificate
-[<img align="left" height="10%" width="10%" alt="logo" src="https://github.com/Ashutosh11-yadav/Ashutosh11-yadav/blob/main/assets/logo.jpeg"/>](https://github.com/Ashutosh11-yadav/minicncplotter)
+## Certification
+[<img align="left" height="10%" width="10%" alt="logo" src="https://github.com/Ashutosh11-yadav/Ashutosh11-yadav/blob/main/assets/logo.jpeg"/>](https://www.coursi.in/)
 **React Native Development** \
-[**CourSi Academy**](https://www.coursi.in/)
-Languages & Technologies: `C++`, `Processing`, `Internet Of Things`<span style="line-height: 15;">&nbsp;</span>\
+[**CourSi Academy, Bengaluru, Karnataka**](https://www.coursi.in/)
+Languages & Technologies: `JavaScript`, `ReactNative`<span style="line-height: 15;">&nbsp;</span>\
 <br/>
 
 
