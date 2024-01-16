@@ -17,16 +17,14 @@ Project Exhibition Competition \
 Languages & Technologies: `C++`, `Processing`, `Internet Of Things`<span style="line-height: 15;">&nbsp;</span>\
 <br/>
 <br/>
-<br/>
 
 
 ## Certification
-[<img align="left" height="8%" width="10%" alt="logo" src="https://github.com/Ashutosh11-yadav/Ashutosh11-yadav/blob/main/assets/Coursi.png"/>](https://www.coursi.in/)
+[<img align="left" height="6%" width="10%" alt="logo" src="https://github.com/Ashutosh11-yadav/Ashutosh11-yadav/blob/main/assets/Coursi.png"/>](https://www.coursi.in/)
 **React Native Development** \
 [**CourSi Academy, Bengaluru, Karnataka**](https://www.coursi.in/) \
 Languages & Technologies: `JavaScript`, `ReactNative`<span style="line-height: 15;">&nbsp;</span>\
 [**Certificate**](https://github.com/Ashutosh11-yadav/Ashutosh11-yadav/blob/main/assets/CourSi%20Certificate.pdf) \
-<br/>
 <br/>
 <br/>
 
@@ -42,7 +40,7 @@ Languages & Technologies: `JavaScript`, `ReactNative`<span style="line-height: 1
 <br/>
 <br/>
 
-[<img align="left" height="7%" width="10%" alt="logo" src="https://github.com/Ashutosh11-yadav/Ashutosh11-yadav/blob/main/assets/sainik-school-ambikapur-logo.png"/>](https://gecbsp.ac.in/)
+[<img align="left" height="5%" width="10%" alt="logo" src="https://github.com/Ashutosh11-yadav/Ashutosh11-yadav/blob/main/assets/sainik-school-ambikapur-logo.png"/>](https://sainikschoolambikapur.org.in//)
 **10+2** \
 **PCM** \
 **2019-20** \
