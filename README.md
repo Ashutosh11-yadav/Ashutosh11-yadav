@@ -28,6 +28,16 @@ Languages & Technologies: `JavaScript`, `ReactNative`<span style="line-height: 1
 <br/>
 <br/>
 
+## Achievement
+[<img align="left" height="10%" width="10%" alt="logo" src="https://github.com/Ashutosh11-yadav/Ashutosh11-yadav/blob/main/assets/GATE2026.png"/>](https://gate.iitk.ac.in/)
+**GATE Qualified** \
+**Year: 2026 & 2025** \
+**Branch: CS/IT**
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ## Education
 
